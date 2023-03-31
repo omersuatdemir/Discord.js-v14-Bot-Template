@@ -43,6 +43,8 @@ The file should look like the image below
     "guildId": "GUILD_ID"
 }
 ````
+4. Download NPM packages
+Open a new terminal (command prompt or powershell is also going to work) and type `npm install` for installing all packages necessary for the bot.
 
 And everything is ready. Finally, you can run the bot by typing `node .`
 
