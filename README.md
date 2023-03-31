@@ -45,3 +45,7 @@ The file should look like the image below
 ````
 
 And everything is ready. Finally, you can run the bot by typing `node .`
+
+Available command examples:
+
+![image](https://user-images.githubusercontent.com/108292163/229243849-4b446488-5cba-4dee-958e-6f66e37f3145.png)
