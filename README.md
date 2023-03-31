@@ -1,5 +1,5 @@
 # Features
-**This template has all the features of discord.js v14**
+## This template has all the features of discord.js v14
 
 ### Slash Commands
 ![image](https://user-images.githubusercontent.com/108292163/229241197-51798d46-36a7-488e-af26-4d549028614f.png)
