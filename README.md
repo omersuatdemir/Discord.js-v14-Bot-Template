@@ -7,6 +7,12 @@
 ### Buttons
 ![image](https://user-images.githubusercontent.com/108292163/229241248-19d65c6b-ca18-4811-8b00-2c6ee2b3006d.png)
 
+### Welcome Message
+![image](https://user-images.githubusercontent.com/108292163/229287045-6bb3b712-e1f5-465a-a5e0-e292fc8c0857.png)
+
+### Example Commands
+![image](https://user-images.githubusercontent.com/108292163/229243849-4b446488-5cba-4dee-958e-6f66e37f3145.png)
+
 ### Modals
 ![image](https://user-images.githubusercontent.com/108292163/229241300-44549ae3-9e84-41b3-b9de-e9cca48a7400.png)
 
@@ -47,7 +53,3 @@ The file should look like the image below
 Open a new terminal (command prompt or powershell is also going to work) and type `npm install` for installing all packages necessary for the bot.
 
 And everything is ready. Finally, you can run the bot by typing `node .`
-
-Available command examples:
-
-![image](https://user-images.githubusercontent.com/108292163/229243849-4b446488-5cba-4dee-958e-6f66e37f3145.png)
