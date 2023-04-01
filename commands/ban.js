@@ -20,7 +20,7 @@ module.exports = {
         await user.send({
             content: `You have banned from ${interaction.guild.name}\nReason: ${reason}`
         }).catch(console.error);
-        
+
         await member.ban({
             reason: reason
         }).catch(console.error);

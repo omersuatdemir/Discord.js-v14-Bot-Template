@@ -24,10 +24,10 @@ module.exports = {
             return reaction.emoji.name === '😄' && user.id == interaction.user.id
         };
 
-        message.awaitReactions({filter, max:4, time:15000, errors: ['time']})
-        .then((collected) => console.log(collected.size))
-        .catch((collected) => {
-            console.log(`After 15 seconds, only ${collected.size} out of 4 reacted.`);
-        })
+        message.awaitReactions({ filter, max: 4, time: 15000, errors: ['time'] })
+            .then((collected) => console.log(collected.size))
+            .catch((collected) => {
+                console.log(`After 15 seconds, only ${collected.size} out of 4 reacted.`);
+            })
     }
 }

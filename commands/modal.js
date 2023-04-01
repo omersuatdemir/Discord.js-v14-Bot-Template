@@ -2,9 +2,9 @@ const { SlashCommandBuilder, ModalBuilder, ActionRowBuilder, TextInputBuilder, T
 
 module.exports = {
     data: new SlashCommandBuilder()
-    .setName('modal')
-    .setDescription('a test command for modals'),
-    async execute(interaction, client){
+        .setName('modal')
+        .setDescription('a test command for modals'),
+    async execute(interaction, client) {
         const modal = new ModalBuilder()
             .setCustomId('testModal')
             .setTitle('Modal Title');

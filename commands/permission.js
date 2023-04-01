@@ -12,10 +12,10 @@ module.exports = {
     async execute(interaction, client) {
 
         // another method interaction.member.roles.cache.some(role => role.name === 'role name');
-        if(interaction.member.roles.cache.has('1090003284695191654')){
+        if (interaction.member.roles.cache.has('1090003284695191654')) {
             interaction.member.roles.remove('1090003284695191654');
             interaction.reply('Role has been removed.');
-        }else{
+        } else {
             interaction.member.roles.add('1090003284695191654');
             interaction.reply('Role has been added.');
         }
