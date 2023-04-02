@@ -14,7 +14,8 @@
 ![image](https://user-images.githubusercontent.com/108292163/229243849-4b446488-5cba-4dee-958e-6f66e37f3145.png)
 
 ### Rich Presence Status
-![image](https://user-images.githubusercontent.com/108292163/229340597-58e023fc-6417-4d26-96a0-7a4fee9976ec.png)
+![image](https://user-images.githubusercontent.com/108292163/229340597-58e023fc-6417-4d26-96a0-7a4fee9976ec.png) ![image](https://user-images.githubusercontent.com/108292163/229340654-132d70cd-ff8b-4bd7-8fd3-83258eeb44d9.png)
+
 
 ### Modals
 ![image](https://user-images.githubusercontent.com/108292163/229241300-44549ae3-9e84-41b3-b9de-e9cca48a7400.png)
