@@ -17,6 +17,8 @@
 ### Rich Presence Status
 ![image](https://user-images.githubusercontent.com/108292163/229340597-58e023fc-6417-4d26-96a0-7a4fee9976ec.png) ![image](https://user-images.githubusercontent.com/108292163/229340654-132d70cd-ff8b-4bd7-8fd3-83258eeb44d9.png)
 
+### Subcommands
+![image](https://user-images.githubusercontent.com/108292163/230147265-74f28b54-1936-47b2-80c8-ea0910fa8fbb.png)
 
 ### Modals
 ![image](https://user-images.githubusercontent.com/108292163/229241300-44549ae3-9e84-41b3-b9de-e9cca48a7400.png)
