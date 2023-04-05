@@ -13,6 +13,9 @@
 ### Example Commands
 ![image](https://user-images.githubusercontent.com/108292163/229243849-4b446488-5cba-4dee-958e-6f66e37f3145.png)
 
+### Subcommands
+![image](https://user-images.githubusercontent.com/108292163/230147265-74f28b54-1936-47b2-80c8-ea0910fa8fbb.png)
+
 ### Modals
 ![image](https://user-images.githubusercontent.com/108292163/229241300-44549ae3-9e84-41b3-b9de-e9cca48a7400.png)
 
