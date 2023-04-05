@@ -25,9 +25,6 @@
 ### Auto Completes
 ![image](https://user-images.githubusercontent.com/108292163/229241601-55881afe-8b73-4107-849c-e55c003962da.png)
 
-### MongoDB Database
-![image](https://user-images.githubusercontent.com/108292163/229241680-5b6736fe-3b73-4420-b581-e3aa427de433.png)
-
 # Setup
 1. Download ZIP
 
@@ -44,7 +41,6 @@ The file should look like the image below
 ```json
 {
     "token": "YOUR_DISCORD_TOKEN",
-    "dbToken": "YOUR_DATABASE_CONNECTION_STRING",
     "clientId": "YOUR_CLIENT_ID",
     "guildId": "GUILD_ID"
 }
