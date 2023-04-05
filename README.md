@@ -1,8 +1,6 @@
-# [The Version With No Database](https://github.com/omersuatdemir/Discord.js-v14-Bot-Template/tree/no-database)
-
-
 # Features
 ## This template has all the features of discord.js v14
+## [The Version With No Database](https://github.com/omersuatdemir/Discord.js-v14-Bot-Template/tree/no-database)
 
 ### Slash Commands
 ![image](https://user-images.githubusercontent.com/108292163/229241197-51798d46-36a7-488e-af26-4d549028614f.png)
